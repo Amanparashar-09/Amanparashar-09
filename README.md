@@ -43,7 +43,7 @@ Currently exploring the world of **Python**, **Web Development**, and diving dee
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman-parashar-09/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amanparashar09/)  
 📬 Email: **amanparashar0911@gmail.com**
 
 ---
