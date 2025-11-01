@@ -1,59 +1,80 @@
-### 👋 Hi there, I'm Aman Parashar
+## 👋 Hey there! I'm **Aman Parashar**
 
-I'm a curious learner and passionate developer from Agra, India 🇮🇳  
-Currently exploring the world of **Python**, **Web Development**, and diving deeper into **Blockchain** and **AI/ML** technologies.
+💡 A passionate **Full-Stack Developer** and **Blockchain Enthusiast** from Agra, India 🇮🇳  
+I love turning ideas into scalable digital solutions and exploring how **Web3** and **AI** can shape the future of technology.
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on personal projects involving **MERN Stack** and **Smart Contracts**
-- 🌱 Actively learning **Solidity**, **React.js**, and sharpening my **DSA in Java**
-- 💬 Ask me about web dev, blockchain basics, or anything tech-related!
-- 📫 Reach me at: **amanparashar0911@gmail.com**
-- ⚡ Fun fact: I love playing sports and listening to music during my free time 🎧🏏
+- 🔭 Currently working on projects using the **MERN Stack** & **Smart Contracts**  
+- 🌱 Exploring advanced concepts in **Blockchain Development** and **AI/ML Integration**  
+- 💬 Always open to discussions about **Web3**, **Decentralized Applications**, and **Tech Innovations**  
+- 🎯 Learning Path: **Solidity**, **React.js**, and **DSA in Java**  
+- ⚡ Fun fact: I’m a sports lover and music enthusiast who believes creativity fuels coding 🎧🏏  
 
 ---
 
-### 🤝 Let's Collaborate On
+### 🤝 Let’s Collaborate On
 
-- 🌐 Full-Stack Web Projects  
-- 🔗 Blockchain / Web3 DApps  
-- 📊 AI/ML Integration with Real-World Use Cases  
-- 📱 Responsive UI/UX Design using React + Tailwind
+- 🌐 **Full-Stack Web Applications**  
+- 🔗 **Blockchain / Web3 DApps**  
+- 🤖 **AI-Powered Solutions**  
+- 🎨 **Interactive UI/UX Designs** using React & Tailwind CSS  
+
+---
+
+### 🧠 Current Focus
+
+- Mastering **Smart Contract Development** using Solidity  
+- Building **AI-integrated Blockchain Systems**  
+- Improving **Algorithmic Thinking & DSA** skills in Java  
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Python, Java  
-- **Frontend**: React.js, HTML, CSS, Tailwind  
-- **Backend**: Node.js, Express.js  
-- **Blockchain**: Solidity, Remix IDE, MetaMask  
-- **Tools**: Git, GitHub, VS Code, Postman  
-- **Database**: MongoDB, Firebase  
+**Languages:**  
+🟨 JavaScript &nbsp; 🐍 Python &nbsp; ☕ Java  
+
+**Frontend:**  
+⚛️ React.js &nbsp; 💅 HTML, CSS, Tailwind  
+
+**Backend:**  
+🧩 Node.js, Express.js  
+
+**Blockchain:**  
+🪙 Solidity &nbsp; 🔗 Remix IDE, MetaMask  
+
+**Database & Tools:**  
+🍃 MongoDB &nbsp; 🔥 Firebase &nbsp; 🧰 Git, GitHub, Postman, VS Code  
 
 ---
 
 ### 📈 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanparashar-09&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanparashar-09&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanparashar-09&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanparashar-09&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amanparashar09/)  
-📬 Email: **amanparashar0911@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanparashar09/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:amanparashar0911@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-> “Consistency beats talent when talent doesn’t show up.”  
+> 🧭 *"Consistency beats talent when talent doesn’t show up."*  
 > Let’s learn, build, and grow together! 🚀
 
+---
 
-
-<!---
-Amanparashar-09/Amanparashar-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
