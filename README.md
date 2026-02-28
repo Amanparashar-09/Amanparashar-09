@@ -1,80 +1,156 @@
-## 👋 Hey there! I'm **Aman Parashar**
+# Aman Parashar
 
-💡 A passionate **Full-Stack Developer** and **Blockchain Enthusiast** from Agra, India 🇮🇳  
-I love turning ideas into scalable digital solutions and exploring how **Web3** and **AI** can shape the future of technology.
+**Blockchain Engineer | Full-Stack Developer | Web3 Infrastructure Builder**
 
----
+India
 
-### 🚀 About Me
-
-- 🔭 Currently working on projects using the **MERN Stack** & **Smart Contracts**  
-- 🌱 Exploring advanced concepts in **Blockchain Development** and **AI/ML Integration**  
-- 💬 Always open to discussions about **Web3**, **Decentralized Applications**, and **Tech Innovations**  
-- 🎯 Learning Path: **Solidity**, **React.js**, and **DSA in Java**  
-- ⚡ Fun fact: I’m a sports lover and music enthusiast who believes creativity fuels coding 🎧🏏  
+Designs and builds scalable web systems and decentralized applications. Focused on smart contract engineering, full-stack architecture, and AI-integrated blockchain systems using modern production-grade technologies.
 
 ---
 
-### 🤝 Let’s Collaborate On
+## Core Competencies
 
-- 🌐 **Full-Stack Web Applications**  
-- 🔗 **Blockchain / Web3 DApps**  
-- 🤖 **AI-Powered Solutions**  
-- 🎨 **Interactive UI/UX Designs** using React & Tailwind CSS  
+**Full-Stack Engineering**
+- Scalable frontend and backend architecture
+- REST API design and integration
+- Authentication and secure system design
+- State management and performance optimization
 
----
+**Blockchain Engineering**
+- Smart contract development using Solidity
+- DApp development and Web3 integration
+- MetaMask, Ethers.js, Web3.js integration
+- Contract deployment and testing
 
-### 🧠 Current Focus
+**AI Integration**
+- AI API integration in full-stack apps
+- Intelligent backend automation
+- AI + Blockchain hybrid systems
 
-- Mastering **Smart Contract Development** using Solidity  
-- Building **AI-integrated Blockchain Systems**  
-- Improving **Algorithmic Thinking & DSA** skills in Java  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-🟨 JavaScript &nbsp; 🐍 Python &nbsp; ☕ Java  
-
-**Frontend:**  
-⚛️ React.js &nbsp; 💅 HTML, CSS, Tailwind  
-
-**Backend:**  
-🧩 Node.js, Express.js  
-
-**Blockchain:**  
-🪙 Solidity &nbsp; 🔗 Remix IDE, MetaMask  
-
-**Database & Tools:**  
-🍃 MongoDB &nbsp; 🔥 Firebase &nbsp; 🧰 Git, GitHub, Postman, VS Code  
+**Computer Science**
+- Data Structures and Algorithms (Java)
+- System design fundamentals
+- Performance optimization and problem solving
 
 ---
 
-### 📈 GitHub Stats
+## Current Focus
+
+- Smart contract development and security
+- Full-stack Web3 application architecture
+- AI-powered decentralized applications
+- Advanced React and frontend systems
+- Backend scalability and clean architecture
+
+---
+
+## Tech Stack
+
+### Languages
+JavaScript  
+Solidity  
+Java  
+Python  
+
+### Frontend
+React.js  
+Tailwind CSS  
+HTML5  
+CSS3  
+
+### Backend
+Node.js  
+Express.js  
+
+### Blockchain
+Solidity  
+Ethers.js  
+Web3.js  
+MetaMask  
+Remix IDE  
+
+### Databases
+MongoDB  
+Firebase  
+
+### Tools
+Git  
+GitHub  
+Postman  
+VS Code  
+
+---
+
+## Engineering Principles
+
+- Writes clean, scalable, and maintainable code
+- Focuses on performance and system reliability
+- Builds production-grade applications
+- Uses modular and reusable architecture
+- Maintains clean separation of system layers
+
+---
+
+## Featured Projects
+
+(Add your best projects here)
+
+### Project Name
+Description of what problem it solves
+
+Tech Stack: React, Node.js, Solidity, MongoDB  
+GitHub: https://github.com/your-repo  
+Live Demo: https://your-demo-link  
+
+---
+
+## Smart Contract Projects
+
+(Add deployed contracts)
+
+Example:
+- Voting Smart Contract — Solidity, Remix, MetaMask
+- Token Contract — ERC-20 Standard
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanparashar-09&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanparashar-09&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanparashar-09&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanparashar-09&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanparashar-09&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanparashar-09&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## Specialization Roadmap
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amanparashar09/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:amanparashar0911@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+- Advanced Solidity Engineering
+- Smart Contract Security
+- Web3 Frontend Architecture
+- Distributed Systems
+- Advanced DSA and System Design
+
+---
+
+## Professional Objective
+
+Build high-performance decentralized applications and scalable full-stack systems integrating Blockchain and AI technologies.
 
 ---
 
-> 🧭 *"Consistency beats talent when talent doesn’t show up."*  
-> Let’s learn, build, and grow together! 🚀
+## Contact
 
----
+LinkedIn  
+https://www.linkedin.com/in/amanparashar09/
+
+Email  
+amanparashar0911@gmail.com  
+
+GitHub  
+https://github.com/Amanparashar-09
 
