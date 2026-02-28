@@ -91,29 +91,6 @@ VS Code
 
 ---
 
-## Featured Projects
-
-(Add your best projects here)
-
-### Project Name
-Description of what problem it solves
-
-Tech Stack: React, Node.js, Solidity, MongoDB  
-GitHub: https://github.com/your-repo  
-Live Demo: https://your-demo-link  
-
----
-
-## Smart Contract Projects
-
-(Add deployed contracts)
-
-Example:
-- Voting Smart Contract — Solidity, Remix, MetaMask
-- Token Contract — ERC-20 Standard
-
----
-
 ## GitHub Stats
 
 <p align="center">
