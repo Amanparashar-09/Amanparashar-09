@@ -58,7 +58,7 @@ contract AmanParashar {
 
 ---
 
-## `> tech_stack --verbose`
+## `> tech_stack`
 
 <div align="center">
 
@@ -97,7 +97,7 @@ contract AmanParashar {
 
 ---
 
-## `> core_competencies --list`
+## `> core_competencies `
 
 <table>
 <tr>
@@ -142,7 +142,7 @@ contract AmanParashar {
 
 ---
 
-## `> git stats --global`
+## `> git stats`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amanparashar-09&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" height="175"/>
@@ -156,7 +156,7 @@ contract AmanParashar {
 
 ---
 
-## `> roadmap --status`
+## `> roadmap `
 
 ```
 SPECIALIZATION ROADMAP                                    [ IN PROGRESS ]
@@ -173,7 +173,7 @@ SPECIALIZATION ROADMAP                                    [ IN PROGRESS ]
 
 ---
 
-## `> engineering_principles --core`
+## `> engineering_principles `
 
 > 🧹 **Clean Code** — Writes clean, scalable, and maintainable code
 >
